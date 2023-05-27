@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.payment_test.MonthlyPayment-20230527212056" tests="1" file="tests/payment_test.py" time="51.300" timestamp="2023-05-27T21:28:56" failures="0" errors="0" skipped="0">
+	<testcase classname="tests.payment_test.MonthlyPayment" name="test_monthly_payment" time="51.300" timestamp="2023-05-27T21:28:56" file="tests/payment_test.py" line="5"/>
+</testsuite>

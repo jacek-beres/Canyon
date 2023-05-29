@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.order_tracking_tests.OrderTracking-20230527212056" tests="24" file="tests/order_tracking_tests.py" time="428.595" timestamp="2023-05-27T21:28:05" failures="0" errors="0" skipped="0">
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_1" time="9.445" timestamp="2023-05-27T21:21:06" file="tests/order_tracking_tests.py" line="21">
+		<!--Email - brak, nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_2" time="19.687" timestamp="2023-05-27T21:21:26" file="tests/order_tracking_tests.py" line="31">
+		<!--Email - brak, nr zamówienia: nieprawdiłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_3" time="19.842" timestamp="2023-05-27T21:21:45" file="tests/order_tracking_tests.py" line="42">
+		<!--Email - brak, nr zamówienia: prawdiłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_4_1___jan_krzysztof__" time="9.473" timestamp="2023-05-27T21:21:55" file="tests/order_tracking_tests.py" line="53">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_4_2____mail_com__" time="16.557" timestamp="2023-05-27T21:22:11" file="tests/order_tracking_tests.py" line="53">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_4_3___jan_mail__" time="10.263" timestamp="2023-05-27T21:22:22" file="tests/order_tracking_tests.py" line="53">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_4_4___jan_mail___" time="10.884" timestamp="2023-05-27T21:22:33" file="tests/order_tracking_tests.py" line="53">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_4_5___jan___mail___" time="16.526" timestamp="2023-05-27T21:22:49" file="tests/order_tracking_tests.py" line="53">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_4_6___tester_jan_mail_com__" time="8.727" timestamp="2023-05-27T21:22:58" file="tests/order_tracking_tests.py" line="53">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_5_1___jan_krzysztof__" time="30.553" timestamp="2023-05-27T21:23:28" file="tests/order_tracking_tests.py" line="66">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_5_2____mail_com__" time="19.865" timestamp="2023-05-27T21:23:48" file="tests/order_tracking_tests.py" line="66">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_5_3___jan_mail__" time="20.220" timestamp="2023-05-27T21:24:08" file="tests/order_tracking_tests.py" line="66">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_5_4___jan_mail___" time="20.334" timestamp="2023-05-27T21:24:29" file="tests/order_tracking_tests.py" line="66">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_5_5___jan___mail___" time="19.948" timestamp="2023-05-27T21:24:49" file="tests/order_tracking_tests.py" line="66">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_5_6___tester_jan_mail_com__" time="19.990" timestamp="2023-05-27T21:25:09" file="tests/order_tracking_tests.py" line="66">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_6_1___jan_krzysztof__" time="19.830" timestamp="2023-05-27T21:25:29" file="tests/order_tracking_tests.py" line="80">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: prawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_6_2____mail_com__" time="19.986" timestamp="2023-05-27T21:25:49" file="tests/order_tracking_tests.py" line="80">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: prawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_6_3___jan_mail__" time="19.543" timestamp="2023-05-27T21:26:08" file="tests/order_tracking_tests.py" line="80">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: prawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_6_4___jan_mail___" time="18.606" timestamp="2023-05-27T21:26:27" file="tests/order_tracking_tests.py" line="80">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: prawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_6_5___jan___mail___" time="19.007" timestamp="2023-05-27T21:26:46" file="tests/order_tracking_tests.py" line="80">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: prawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_6_6___tester_jan_mail_com__" time="19.075" timestamp="2023-05-27T21:27:05" file="tests/order_tracking_tests.py" line="80">
+		<!--Email: nieprawdiłowy format, Nr zamówienia: prawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_7" time="18.723" timestamp="2023-05-27T21:27:24" file="tests/order_tracking_tests.py" line="93">
+		<!--Email: prawdiłowy format, ale brak w bazie, Nr zamówienia: brak-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_8" time="21.491" timestamp="2023-05-27T21:27:45" file="tests/order_tracking_tests.py" line="104">
+		<!--Email: prawdiłowy format, Nr zamówienia: nieprawidłowy-->
+	</testcase>
+	<testcase classname="tests.order_tracking_tests.OrderTracking" name="test_TC1_9" time="20.021" timestamp="2023-05-27T21:28:05" file="tests/order_tracking_tests.py" line="115">
+		<!--Email: poprawny format, Nr zamówienia: prawidłowy-->
+	</testcase>
+</testsuite>
